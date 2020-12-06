@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/gregorypetrovln" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gregorypetrovln" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/gregory-petrov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gregory-petrov" height="30" width="40" /></a>
 <a href="https://fb.com/greg.jesop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="greg.jesop" height="30" width="40" /></a>
 <a href="https://instagram.com/ln.420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ln.420" height="30" width="40" /></a>
