@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
-- 🔭 I’m currently working [as iOS developer](http://www.ipoint.ru)
+- 🔭 I’m currently working [as React developer](http://www.ipoint.ru)
 
 - 🤝 I’m looking for **a job as full stack developer**
 
